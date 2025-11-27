@@ -10,5 +10,5 @@ From this definition, the paper derives the structure of configurations, interac
 
 This v1.0 document presents the core axioms, immediate consequences, domain mappings, and a set of testable, falsifiable predictions.
 
-👉 Read the paper here:  
-[**Belief Theory(PDF)**](./Belief Theory.pdf)
+👉 Read the paper:  
+[**Belief Theory (PDF)**](./Belief%20Theory.pdf)
