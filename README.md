@@ -6,7 +6,7 @@ Belief Theory begins from a single primitive and models all change as the resolu
 From this foundation, BT derives **falsifiable predictions** across physics, cognition, information, and cosmology.
 
 👉 **Read the paper (PDF):**  
-[Belief-Theory.pdf](./Belief-Theory.pdf)
+[Belief Theory (PDF)](./Belief%20Theory.pdf)
 
 ---
 
