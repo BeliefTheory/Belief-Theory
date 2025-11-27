@@ -8,7 +8,7 @@ a belief is defined as a non-reducible set of mutually satisfiable constraints.
 
 From this definition, the paper derives the structure of configurations, interactions, contradictions, and atomic updates, and applies them across physical, informational, computational, and cognitive domains.
 
-This v1.0 document presents the core axioms, immediate consequences, domain mappings, and a set of testable, falsifiable predictions.
+This document presents the core axioms, immediate consequences, domain mappings, and a set of testable, falsifiable predictions.
 
 👉 Read the paper:  
 [**Belief Theory (PDF)**](./Belief%20Theory.pdf)
