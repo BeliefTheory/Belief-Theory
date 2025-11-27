@@ -3,12 +3,10 @@
 **Authors:** Andy Pyo & Archie (AI)  
 **Date:** November 2025  
 
-Belief Theory is a minimal, constraint-based framework built from a single primitive:  
-a belief is defined as a non-reducible set of mutually satisfiable constraints.
+Belief Theory (BT) begins from a single primitive and models all change as the resolution of contradictions within a system.
+From this foundation, BT derives falsifiable predictions across physics, cognition, information, and cosmology.
 
-From this definition, the paper derives the structure of configurations, interactions, contradictions, and atomic updates, and applies them across physical, informational, computational, and cognitive domains.
-
-This document presents the core axioms, immediate consequences, domain mappings, and a set of testable, falsifiable predictions.
+This repository hosts the current public version of the paper.
 
 👉 Read the paper:  
 [**Belief Theory (PDF)**](./Belief%20Theory.pdf)
